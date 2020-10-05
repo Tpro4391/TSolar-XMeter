@@ -23,20 +23,20 @@
 
 ## Hình Ảnh
 
-<img src="https://github.com/Tpro4391/Solar-Xmeter/blob/master/anh/thiet-bi.png">
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/thiet-bi.png">
 
 ## Lắp đặt
 ### Bộ đo điện 3 pha 2 chiều:
 
-<img src="https://github.com/Tpro4391/Solar-Xmeter/blob/master/anh/dong-ho-3-pha.jpg">
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/dong-ho-3-pha.jpg">
 
 ### Bộ đọc giám sát T-Solar XMeter
 
-<img src="https://github.com/Tpro4391/Solar-Xmeter/blob/master/anh/ket-noi.png">
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/ket-noi.png">
 
 ## Cấu trúc dữ liệu
 
-<img src="https://github.com/Tpro4391/Solar-Xmeter/blob/master/anh/Data-map.png">
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/Data-map.png">
 
 ## Hướng dẫn sử dụng
- Link: https://github.com/Tpro4391/Solar-Xmeter/blob/master/DOC%20T-Solar%20XMeter.pdf
+ Link: https://github.com/Tpro4391/TSolar-Xmeter/blob/master/DOC%20T-Solar%20XMeter.pdf
