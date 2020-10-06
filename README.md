@@ -34,6 +34,13 @@
 
 <img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/ket-noi.png">
 
+## Theo dõi qua ứng dụng Blynk
+* Mã QR code: >13.000 Energy
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/QR-code-1.0.png">
+
+* Giao diện blynk:
+<img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/Blynk.jpg">
+
 ## Cấu trúc dữ liệu
 
 <img src="https://github.com/Tpro4391/TSolar-Xmeter/blob/master/anh/Data-map.png">
