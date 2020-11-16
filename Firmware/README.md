@@ -9,4 +9,5 @@
   
 ## FW V2.2
   - Thêm dữ liệu gửi qua blynk vào MQTT bao gồm: Cospi pha A, B, C và chỉ số Công suất realtime của Solar (P_sl)
-  - Chi tiết xem trong Map Data tại: <img src="https://github.com/Tpro4391/TSolar-XMeter/blob/master/anh/Data-map.png">
+  - Chi tiết xem trong Map Data tại: 
+  <img src="https://github.com/Tpro4391/TSolar-XMeter/blob/master/anh/Data-map.png">
